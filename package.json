@@ -1,0 +1,21 @@
+{
+  "name": "nodejsproj",
+  "version": "1.0.0",
+  "description": "NodeJS Train",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm install",
+    "run": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sid6308/NodeJSProj.git"
+  },
+  "author": "sid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sid6308/NodeJSProj/issues"
+  },
+  "homepage": "https://github.com/sid6308/NodeJSProj#readme"
+}
